@@ -1,0 +1,18 @@
+﻿
+
+
+                    
+ exit date          
+
+                                                          
+ if(finshingdate <=enterance date ||   startingdate >= exist23e date)
+
+ true 
+
+ else
+  false        
+foreach (var rezervation in reervationList)        
+
+      rezervation.finishingDate==25.20223    26    27 oda boşalıcak
+
+      1                               24          25
