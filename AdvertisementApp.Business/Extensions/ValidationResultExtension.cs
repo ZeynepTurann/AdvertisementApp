@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace AdvertisementApp.Business.Extensions
 {
+    //extension
     public static class ValidationResultExtension
     {
         public static List<CustomValidationError> ConvertToCustomValidationError(this ValidationResult validationResult)
